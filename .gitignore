@@ -1,1 +1,9 @@
 output/*
+*.log
+*.aux
+*.lof
+*.lot
+*.out
+*.gz
+*.pdf
+*.toc
