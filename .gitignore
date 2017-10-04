@@ -7,5 +7,5 @@ output/*
 *.gz
 *.pdf
 *.toc
-*.div
+*.dvi
 *.blg
